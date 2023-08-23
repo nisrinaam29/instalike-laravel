@@ -2,7 +2,7 @@
 ```markdown
 # Laravel Instagram - dupe
 
-Description of your project.
+instagram like laravel project
 
 ## Getting Started
 
